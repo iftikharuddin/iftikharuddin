@@ -10,7 +10,7 @@
   - Lending/Borrowing Protocols
   - Bridges
   - Cross chain protocols
-  - digging into Rust/Cairo and other langs security side also.
+  - digging into Rust/GO and other langs security side also.
   - my audit portfolio [Audits](https://github.com/iftikharuddin/audit-reports)
 
 
