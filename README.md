@@ -5,7 +5,7 @@
 - Good at auditing Chainlink protocols, Lending/Borrowing, CCIP, Oracles, LayerZero Protocols, Bridges etc
 - Cross chain protocols, OP Stack
 - Digging into Rust/GO and other langs security side also.
-- My audit portfolio [Audits](https://github.com/iftikharuddin/audit-reports)
+- 🐱‍💻 My audit portfolio [Audits](https://github.com/iftikharuddin/audit-reports)
 - 📫 How to reach me **iftipro@gmail.com**
 
 
