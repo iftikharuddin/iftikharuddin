@@ -1,6 +1,6 @@
 - Hi 👋, I'm **Iftikhar uddin** 🇵🇰
 - 🐱‍💻 Software Engineer / Aspiring Security Researcher.
-- 💬 Ask me about **software engineering, blockchain, security research, auditing, web development**
+- 💬 Ask me about **software engineering, blockchain, security research, web development**
 - Currently fully focused on exploring the security research side.
 - Good at auditing Chainlink protocols, Lending/Borrowing, CCIP, Oracles, Stable coins, NFTs, Layer Zero, Bridges etc
 - Cross chain protocols, DAO, OP Stack.
