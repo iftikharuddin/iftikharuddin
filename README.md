@@ -4,7 +4,7 @@
 - Currently fully focused on exploring the security research.
 - Good at auditing Chainlink protocols, Lending/Borrowing, CCIP, Oracles, **Stable coins**, NFTs, Layer Zero, Bridges.
 - Cross chain protocols, DAO, OP Stack, Governance, Timelocks.
-- Exploring **Solidity, Rust, GO, EVM, Huff**.
+- Exploring **Solidity, Rust, GO, EVM, Huff, & FV**.
 - My audits portfolio:
   - [Audits](https://github.com/iftikharuddin/audit-reports)
   - [Cantina](https://cantina.xyz/u/0xTheBlackPanther)
