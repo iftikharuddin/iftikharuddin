@@ -10,7 +10,7 @@
   - [CodeHawks](https://www.codehawks.com/profile/clnca1ftl0000lf08bfytq099)
   - [Audits](https://github.com/iftikharuddin/audit-reports)
 
-- 📫 Contact me [at] **iftipro@gmail.com**
+- 📫 Contact me @ **iftipro@gmail.com**
 
 
 
