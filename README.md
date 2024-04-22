@@ -1,4 +1,4 @@
-- Hi 👋, I'm **Iftikhar uddin** 🇵🇰
+- Hi, I'm **Iftikhar uddin** 🇵🇰
 - Software Engineer / Aspiring Security Researcher.
 - Ask me about **software engineering, blockchain, security research, web development**
 - Currently fully focused on exploring the security research.
@@ -10,7 +10,7 @@
   - [Cantina](https://cantina.xyz/u/0xTheBlackPanther)
   - [CodeHawks](https://www.codehawks.com/profile/clnca1ftl0000lf08bfytq099)
 
-- 📫 Contact me @ **iftipro@gmail.com**
+- Contact me @ **iftipro@gmail.com**
 
 
 
