@@ -4,7 +4,7 @@
 - Good at auditing **Lending/Borrowing, CCIP, Oracles, Stable coins, NFTs, Layer Zero**.
 - Researching Cross chain protocols, **Vaults, DAOs, OP Stack, Governance, Timelocks**.
 - Exploring **Solidity, Rust, GO, Move, Cosmos, Assembly, EVM, Huff, & Formal Verification**.
-- My audits portfolio:
+- Audits portfolio:
   - [Audits](https://github.com/iftikharuddin/audit-reports)
   - [Cantina](https://cantina.xyz/u/0xTheBlackPanther)
   - [CodeHawks](https://www.codehawks.com/profile/clnca1ftl0000lf08bfytq099)
