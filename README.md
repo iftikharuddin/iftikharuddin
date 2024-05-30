@@ -3,7 +3,7 @@
 - Ask me about **software engineering, blockchain, security research, Web Development**.
 - Good at auditing **Lending/Borrowing, CCIP, Oracles (Redstone, Chronical, Chainlink, Uniswap, Pyth), Stable coins, NFTs, Layer Zero**.
 - Researching Cross chain protocols, **Vaults, DAOs, OP Stack, Governance, Timelocks**.
-- Exploring **Solidity, Rust, GO, Move, Cosmos, Assembly, EVM, Huff, & Formal Verification**.
+- Exploring **Solidity, Rust, GO, Move, Cosmos, Assembly, EVM, Huff, & FV**.
 - Audits portfolio:
   - [Audits](https://github.com/iftikharuddin/audit-reports)
   - [Cantina](https://cantina.xyz/u/0xTheBlackPanther)
