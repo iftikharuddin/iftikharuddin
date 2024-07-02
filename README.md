@@ -8,7 +8,7 @@
   - [Audits](https://github.com/iftikharuddin/audit-reports)
   - [Cantina](https://cantina.xyz/u/0xTheBlackPanther)
   - [CodeHawks](https://www.codehawks.com/profile/clnca1ftl0000lf08bfytq099)
-- **Currently auditing**: 🔴 Rewards Station* (next TempaleDAO or CCIP or both maybe?)
+- **Currently auditing**: 🔴 TempaleDAO*
 - Contact me **iftipro@gmail.com**
 
 
