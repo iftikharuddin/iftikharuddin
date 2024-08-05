@@ -8,7 +8,7 @@
   - [Audits](https://github.com/iftikharuddin/audit-reports)
   - [Cantina](https://cantina.xyz/u/0xTheBlackPanther)
   - [CodeHawks](https://www.codehawks.com/profile/clnca1ftl0000lf08bfytq099)
-- **Currently auditing**: 🔴 ArkProject (L2 bridge.cairo)*
+- **Currently auditing/doing**: 🔴 ArkProject (L2 bridge.cairo)* / Encode x Solana Rust Bootcamp
 - Contact me **iftipro@gmail.com**
 
 
