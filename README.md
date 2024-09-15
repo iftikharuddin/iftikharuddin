@@ -1,5 +1,5 @@
 - Hi, I'm **Iftikhar uddin** 🇵🇰
-- Software Engineer / Security Researcher
+- Software Engineer / Security Researcher.
 - Ask me about **software engineering, blockchain, security research, Web Development**.
 - Good at auditing **Lending/Borrowing, CCIP, Oracles (_Redstone, Chronical, Chainlink, Uniswap, Pyth_), Stable coins, NFTs, Layer Zero**.
 - Researching Cross chain protocols, **Vaults, DAOs, DEX, OP Stack, Governance, Timelocks**.
