@@ -8,7 +8,7 @@
   - [Audits](https://github.com/iftikharuddin/audit-reports)
   - [Cantina](https://cantina.xyz/u/0xTheBlackPanther)
   - [CodeHawks](https://www.codehawks.com/profile/clnca1ftl0000lf08bfytq099)
-- **Currently auditing**: 🔴 Starknet Staking (Cairo + ZK Rollups*) + nexy maybe Stake.link or Kakaroot? 🥕
+- **Currently auditing**: 🔴 Starknet Staking (Cairo + ZK Rollups*) + next maybe Stake.link or Kakaroot? 🥕
 - Contact me **iftipro@gmail.com**
 
 
