@@ -9,7 +9,7 @@
   - [Cantina](https://cantina.xyz/u/0xTheBlackPanther)
   - [CodeHawks](https://www.codehawks.com/profile/clnca1ftl0000lf08bfytq099)
   - [Secure3](https://app.secure3.io/profile/0xtheblackpanther)
-- **Currently auditing**: 🔴 Stake.link (live*) 
+- **Currently auditing**: 🔴 StakeUp (live*) 
 - Contact me **iftipro@gmail.com**
 
 
