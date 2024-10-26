@@ -9,7 +9,7 @@
   - [Cantina](https://cantina.xyz/u/0xTheBlackPanther)
   - [CodeHawks](https://profiles.cyfrin.io/u/0xtheblackpanther)
   - [Secure3](https://app.secure3.io/profile/0xtheblackpanther)
-- **Currently auditing**: 🔴 Omni (Digging into Go*), and in parrallel speedrunning Flow & Drai for next few days then next Tensor? 
+- **Currently auditing**: 🔴 Omni (Go*), and in parrallel speedrunning Flow & Drai for next few days then next Tensor? 
 - Contact me **iftipro@gmail.com**
 
 
