@@ -2,7 +2,7 @@
 - Software Engineer / Security Researcher.
 - Ask me about **software engineering, blockchain, security research, web development**.
 - Good at auditing **Lending/Borrowing, CCIP, Oracles (_Redstone, Chronical, Chainlink, Uniswap, Pyth_), Stable coins, NFTs, Layer Zero**.
-- Researching Cross chain protocols, **Vaults, DAOs, DEX, Cosmos SDK, OP Stack, Governance, Timelocks**.
+- Researching Cross chain protocols, **Oracles, Vaults, DAOs, DEX, Cosmos SDK, OP Stack, Governance, Timelocks**.
 - Exploring **Solidity, Rust, Cairo, Sway, Go, Assembly, EVM, Huff, & FV**.
 - Audits portfolio:
   - [Audits](https://github.com/iftikharuddin/audit-reports)
