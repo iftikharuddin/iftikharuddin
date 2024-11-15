@@ -9,7 +9,7 @@
   - [Cantina](https://cantina.xyz/u/0xTheBlackPanther)
   - [CodeHawks](https://profiles.cyfrin.io/u/0xtheblackpanther)
   - [Secure3](https://app.secure3.io/profile/0xtheblackpanther)
-- **Currently auditing**: 🔴 Tensor (Rust*) -> ... next maybe secure3 private or zkSync?
+- **Currently auditing**: 🔴 Tevaera (private*) -> ... next maybe zkSync?
 - Contact me **iftipro@gmail.com**
 
 
